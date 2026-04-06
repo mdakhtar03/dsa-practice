@@ -5,6 +5,14 @@
 using namespace std;
 int main()
 {
-
-return 0;
+    int number,count=0;
+    cin>>number;
+    while(number){
+        if((number & 1)==1){
+            count=count+1;
+        }
+        number=number>>1;
+    }
+    cout<<"Set Bits "<< count;
+    return 0;
 }
