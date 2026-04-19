@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [1848-minimum-distance-to-the-target-element](https://github.com/mdakhtar03/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mdakhtar03/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
