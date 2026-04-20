@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/mdakhtar03/dsa-practice/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0728-self-dividing-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/mdakhtar03/dsa-practice/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
