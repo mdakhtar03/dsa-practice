@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/mdakhtar03/dsa-practice/tree/master/0069-sqrtx) |
 | [2485-find-the-pivot-integer](https://github.com/mdakhtar03/dsa-practice/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
