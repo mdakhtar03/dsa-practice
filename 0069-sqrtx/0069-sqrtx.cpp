@@ -1,24 +1,20 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        int start=0;
-        int end=x;
-        long long int mid=start+(end-start)/2;
-        int ans=-1;
-        
-        while(start<=end)
-        {
-            if(mid*mid==x)return mid;
-            else if(mid*mid<x)
-            {
+        if (x==0)return 0;
+        int s=1, e=x;double ans;
+        while(s<=e){
+            double mid = s+(e-s)/2;
+            if(mid*mid == x){return mid;}
+            else if(mid*mid > x){
+                e=mid-1;
+            }
+            else {
                 ans=mid;
-                start=mid+1;
+                s=mid+1;
             }
-            else{
-                end=mid-1;
-            }
-            mid=start+(end-start)/2;
         }
-        return ans;
+        int ouput = floor(ans);
+        return ouput;
     }
 };
