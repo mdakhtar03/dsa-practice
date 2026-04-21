@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mdakhtar03/dsa-practice/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0728-self-dividing-numbers) |
@@ -17,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0485-max-consecutive-ones](https://github.com/mdakhtar03/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mdakhtar03/dsa-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/mdakhtar03/dsa-practice/tree/master/2485-find-the-pivot-integer) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
