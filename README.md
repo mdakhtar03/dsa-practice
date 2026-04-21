@@ -13,11 +13,13 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/mdakhtar03/dsa-practice/tree/master/0069-sqrtx) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mdakhtar03/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0485-max-consecutive-ones](https://github.com/mdakhtar03/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1470-shuffle-the-array) |
