@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/0657-robot-return-to-origin) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mdakhtar03/dsa-practice/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 ## Simulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mdakhtar03/dsa-practice/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mdakhtar03/dsa-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
