@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mdakhtar03/dsa-practice/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0263-ugly-number) |
@@ -71,4 +72,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
