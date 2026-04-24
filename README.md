@@ -18,6 +18,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/mdakhtar03/dsa-practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/mdakhtar03/dsa-practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mdakhtar03/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -28,6 +29,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/mdakhtar03/dsa-practice/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/mdakhtar03/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
