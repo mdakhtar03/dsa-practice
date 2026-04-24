@@ -22,6 +22,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mdakhtar03/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1901-find-a-peak-element-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mdakhtar03/dsa-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mdakhtar03/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mdakhtar03/dsa-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1901-find-a-peak-element-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mdakhtar03/dsa-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
