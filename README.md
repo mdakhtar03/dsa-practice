@@ -65,6 +65,7 @@
 | [0680-valid-palindrome-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mdakhtar03/dsa-practice/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2325-decode-the-message](https://github.com/mdakhtar03/dsa-practice/tree/master/2325-decode-the-message) |
 | [2833-furthest-point-from-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
@@ -76,6 +77,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2325-decode-the-message](https://github.com/mdakhtar03/dsa-practice/tree/master/2325-decode-the-message) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
 |  |
