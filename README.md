@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mdakhtar03/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
@@ -60,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mdakhtar03/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/mdakhtar03/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/0657-robot-return-to-origin) |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/mdakhtar03/dsa-practice/tree/master/0647-palindromic-substrings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mdakhtar03/dsa-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
