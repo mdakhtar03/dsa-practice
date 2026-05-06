@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/mdakhtar03/dsa-practice/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
 | [0485-max-consecutive-ones](https://github.com/mdakhtar03/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -75,6 +76,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mdakhtar03/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0415-add-strings) |
@@ -110,6 +112,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0767-reorganize-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mdakhtar03/dsa-practice/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -118,6 +121,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/0658-find-k-closest-elements) |
