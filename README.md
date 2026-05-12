@@ -36,6 +36,7 @@
 | [0014-longest-common-prefix](https://github.com/mdakhtar03/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/mdakhtar03/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mdakhtar03/dsa-practice/tree/master/0051-n-queens) |
@@ -108,6 +109,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mdakhtar03/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
@@ -144,6 +146,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mdakhtar03/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
@@ -186,5 +189,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mdakhtar03/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/mdakhtar03/dsa-practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
