@@ -194,4 +194,8 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/mdakhtar03/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/mdakhtar03/dsa-practice/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
