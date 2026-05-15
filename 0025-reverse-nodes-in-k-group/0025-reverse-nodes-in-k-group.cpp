@@ -33,7 +33,7 @@ public:
                 current = nextNode;
                 i++;
             }
-            ListNode *recursionAns = reverseKGroup(nextNode,k);
+            ListNode *recursionAns = reverseKGroup(current,k);
             head->next = recursionAns;
             return previous;
         }
