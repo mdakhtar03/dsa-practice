@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mdakhtar03/dsa-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0029-divide-two-integers) |
@@ -198,6 +199,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mdakhtar03/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0086-partition-list) |
@@ -206,6 +208,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mdakhtar03/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
