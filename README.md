@@ -205,6 +205,7 @@
 | [0086-partition-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/mdakhtar03/dsa-practice/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
@@ -212,4 +213,12 @@
 | [0002-add-two-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mdakhtar03/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
