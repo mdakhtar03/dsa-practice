@@ -205,6 +205,7 @@
 | [0086-partition-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/mdakhtar03/dsa-practice/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
 | ------- |
