@@ -42,6 +42,7 @@
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mdakhtar03/dsa-practice/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/mdakhtar03/dsa-practice/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
@@ -223,4 +225,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
