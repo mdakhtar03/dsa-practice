@@ -87,6 +87,7 @@
 | [0020-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/mdakhtar03/dsa-practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/mdakhtar03/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0205-isomorphic-strings) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/mdakhtar03/dsa-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdakhtar03/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
