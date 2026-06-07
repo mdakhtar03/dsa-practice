@@ -11,16 +11,11 @@
  */
 class Solution {
 public:
-    int getIndex(vector<int>& inorder, int element){
-            for(int i=0; i<inorder.size(); i++){
-                if(inorder[i]==element){
-                    return i;
-                }
-            }
-            return -1;
+    int getIndex( int element, unordered_map<int, int> &mp){
+            return mp[element];
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder, int &postorderIndex, int startIndex, 
-    int endIndex){
+    int endIndex,unordered_map<int, int> &mp){
         if(postorderIndex<0){
             return NULL;
         }
@@ -30,10 +25,10 @@ public:
 
         int  element = postorder[postorderIndex--];
         TreeNode* root = new TreeNode(element);
-        int inorderElementIndex = getIndex(inorder,element);
+        int inorderElementIndex = getIndex(element,mp);
 
-        root->right = buildTree(inorder, postorder, postorderIndex,inorderElementIndex+1,endIndex);
-        root->left = buildTree(inorder, postorder, postorderIndex, startIndex,inorderElementIndex-1);
+        root->right = buildTree(inorder, postorder, postorderIndex,inorderElementIndex+1,endIndex,mp);
+        root->left = buildTree(inorder, postorder, postorderIndex, startIndex,inorderElementIndex-1,mp);
         
         return root;
     }
@@ -42,11 +37,19 @@ public:
 
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         
+
+        unordered_map<int, int> mp;
+
+        for(int i = 0; i < inorder.size(); i++){
+            mp[inorder[i]] = i;
+        }
+
         int postorderIndex = postorder.size()-1;
         int startIndex = 0;
         int endIndex = inorder.size()-1;
 
-        return buildTree(inorder,postorder, postorderIndex, startIndex, endIndex);
+        return buildTree(inorder,postorder, postorderIndex, startIndex, endIndex,
+        mp);
 
 
     }
