@@ -11,31 +11,14 @@
  */
 class Solution {
 public:
-
-    void findAns(TreeNode* Ptr, int &ans, int &maxH){
-        if(Ptr == NULL){
-            ans = max(maxH,ans);
-            return;
-        }
-        maxH = maxH+1;
-        
-            findAns(Ptr->left, ans, maxH);
-            
-            findAns(Ptr->right, ans, maxH);
-
-
-            maxH = maxH-1;
-        
-    }
-
     int maxDepth(TreeNode* root) {
-        int ans =0;
         if(root == NULL){
-            return ans;
+            return 0;
         }
-        int maxH = 0;
-        TreeNode* Ptr = root;
-        findAns(Ptr, ans, maxH);
+        int leftAns = maxDepth(root->left);
+        int rightAns = maxDepth(root->right);
+        int ans = max(leftAns,rightAns)+1;
+
         return ans;
     }
 };
