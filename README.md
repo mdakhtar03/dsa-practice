@@ -189,6 +189,7 @@
 | [0071-simplify-path](https://github.com/mdakhtar03/dsa-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdakhtar03/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
@@ -235,6 +236,7 @@
 | [0110-balanced-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -255,6 +257,7 @@
 | [0110-balanced-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -271,6 +274,7 @@
 | [0110-balanced-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
