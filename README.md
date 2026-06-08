@@ -190,6 +190,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdakhtar03/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
@@ -240,6 +241,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/mdakhtar03/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mdakhtar03/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
