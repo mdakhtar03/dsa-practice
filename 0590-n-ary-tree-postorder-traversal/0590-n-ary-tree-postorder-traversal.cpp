@@ -27,8 +27,8 @@ vector<int> postorder(Node* root, vector<int> &ans){
     //LRN
     for(auto child:root->children){
         postorder(child, ans);
-        ans.push_back(child->val);
     }
+        ans.push_back(root->val);
 
 return ans;
 }
@@ -37,8 +37,6 @@ return ans;
         if(!root){
             return{};
         }
-        ans =  postorder(root, ans);
-        ans.push_back(root->val);
-        return ans;
+        return postorder(root,ans);
     }
 };
