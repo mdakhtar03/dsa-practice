@@ -11,22 +11,39 @@
  */
 class Solution {
 public:
-    int countNodes(TreeNode* root, int &ans){
-        if(root == NULL){
+    int findleftHeight(TreeNode *root){
+        int h=0;
+        while(root){
+            h++;
+            root = root->left;
+        }
+        return h;
+    }
+    int findrightHeight(TreeNode* root){
+        int h=0;
+        while(root){
+            h++;
+            root = root->right;
+        }
+        return h;
+    }
+
+    int countNodes(TreeNode* root) {
+        
+        if(!root){
             return 0;
         }
+        int leftHeight = findleftHeight(root);
+        int rightHeight = findrightHeight(root);
 
-        ans++;
-        countNodes(root->left, ans);
-        countNodes(root->right, ans);
-        return ans;
-
-    }
-    int countNodes(TreeNode* root) {
-        int ans=0;
-        if(!root){
-            return ans;
+        if(leftHeight == rightHeight){
+            return (1<<leftHeight)-1;
         }
-        return countNodes(root, ans);
+
+        int leftCount = countNodes(root->left);
+        int rightCount = countNodes(root->right);
+
+        return leftCount+rightCount+1;
+
     }
 };
