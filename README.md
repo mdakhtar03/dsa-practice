@@ -271,6 +271,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -292,9 +293,14 @@
 | [0199-binary-tree-right-side-view](https://github.com/mdakhtar03/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/mdakhtar03/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
