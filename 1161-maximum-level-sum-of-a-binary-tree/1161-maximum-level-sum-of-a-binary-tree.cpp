@@ -35,14 +35,13 @@ public:
                     q.push(NULL);
                 }
             }
-            if(temp)
-            sum = sum+temp->val;
-
             if(temp){
+                
+                sum = sum+temp->val;
+
                 if(temp->left)
                 q.push(temp->left);
-            }
-            if(temp){
+            
                 if(temp->right)
                 q.push(temp->right);
             }
