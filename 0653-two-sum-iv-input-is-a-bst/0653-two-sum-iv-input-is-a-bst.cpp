@@ -11,15 +11,15 @@
  */
 class Solution {
 public:
-    vector<int> buildValues(TreeNode* root, vector<int> &arr){
+    void buildValues(TreeNode* root, vector<int> &arr){
         if(root == NULL){
-            return {};
+            return;
         }
         //LNR
         buildValues(root->left, arr);
         arr.push_back(root->val);
         buildValues(root->right,arr);
-        return arr;
+        
     }
     bool findTarget(TreeNode* root, int k) {
         vector<int> arr;
