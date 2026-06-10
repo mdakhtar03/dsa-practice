@@ -244,6 +244,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mdakhtar03/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0538-convert-bst-to-greater-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0538-convert-bst-to-greater-tree) |
@@ -273,6 +274,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mdakhtar03/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/mdakhtar03/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0450-delete-node-in-a-bst) |
@@ -306,6 +308,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mdakhtar03/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/mdakhtar03/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0538-convert-bst-to-greater-tree) |
@@ -322,6 +325,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
