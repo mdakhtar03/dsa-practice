@@ -226,6 +226,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/mdakhtar03/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0086-partition-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -271,6 +272,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -307,6 +309,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -329,10 +332,12 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0450-delete-node-in-a-bst) |
