@@ -50,6 +50,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/mdakhtar03/dsa-practice/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mdakhtar03/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
@@ -149,6 +150,7 @@
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
@@ -185,6 +187,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0767-reorganize-string) |
 ## Stack
@@ -337,6 +340,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -350,4 +354,8 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0938-range-sum-of-bst) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
