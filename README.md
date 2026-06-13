@@ -12,6 +12,7 @@
 | [0069-sqrtx](https://github.com/mdakhtar03/dsa-practice/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
 | [0728-self-dividing-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0728-self-dividing-numbers) |
@@ -245,6 +246,7 @@
 | [0002-add-two-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mdakhtar03/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0390-elimination-game) |
 ## Depth-First Search
 |  |
 | ------- |
