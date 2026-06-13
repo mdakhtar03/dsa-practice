@@ -59,6 +59,7 @@
 | [0658-find-k-closest-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mdakhtar03/dsa-practice/tree/master/0875-koko-eating-bananas) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mdakhtar03/dsa-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mdakhtar03/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -158,6 +159,7 @@
 | [0658-find-k-closest-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0791-custom-sort-string) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mdakhtar03/dsa-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Prefix Sum
 |  |
@@ -192,6 +194,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0767-reorganize-string) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
 | ------- |
