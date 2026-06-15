@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mdakhtar03/dsa-practice/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/mdakhtar03/dsa-practice/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0390-elimination-game) |
@@ -101,6 +102,7 @@
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/mdakhtar03/dsa-practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/mdakhtar03/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/mdakhtar03/dsa-practice/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
