@@ -15,6 +15,7 @@
 | [0371-sum-of-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
 | [0728-self-dividing-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0728-self-dividing-numbers) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mdakhtar03/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdakhtar03/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/mdakhtar03/dsa-practice/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
@@ -275,6 +277,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/mdakhtar03/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0390-elimination-game) |
+| [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -420,4 +423,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/mdakhtar03/dsa-practice/tree/master/0706-design-hashmap) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
