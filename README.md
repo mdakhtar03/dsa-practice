@@ -130,6 +130,7 @@
 | [2325-decode-the-message](https://github.com/mdakhtar03/dsa-practice/tree/master/2325-decode-the-message) |
 | [2833-furthest-point-from-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/2833-furthest-point-from-origin) |
 | [3612-process-string-with-special-operations-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0657-robot-return-to-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3614-process-string-with-special-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
