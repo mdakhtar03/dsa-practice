@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mdakhtar03/dsa-practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mdakhtar03/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/mdakhtar03/dsa-practice/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0371-sum-of-two-integers) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdakhtar03/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/mdakhtar03/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/mdakhtar03/dsa-practice/tree/master/0647-palindromic-substrings) |
 ## Trie
@@ -426,5 +428,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mdakhtar03/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
