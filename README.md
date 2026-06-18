@@ -20,6 +20,7 @@
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
 | [0728-self-dividing-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/mdakhtar03/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mdakhtar03/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2485-find-the-pivot-integer](https://github.com/mdakhtar03/dsa-practice/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
