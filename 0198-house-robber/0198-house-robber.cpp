@@ -23,10 +23,26 @@ public:
         dp[index] = max(includeAns,excludeAns);
         return dp[index];
     }
+
+    int solveUsingTabulation(vector<int> &nums){
+        int n=nums.size();
+        vector<int> dp(nums.size()+1,-1);
+        dp[n] = 0;
+        for(int index = n-1; index>=0 ; index--){
+            int temp =0;
+            if(index+2<=n){
+                temp = dp[index+2];
+            }
+        int includeAns=nums[index]+temp;
+        int excludeAns=0+dp[index+1];
+        dp[index] = max(includeAns,excludeAns);
+        }
+        return dp[0];
+    }
     int rob(vector<int>& nums) {
         int index=0;
         vector<int> dp(nums.size()+1,-1);
-        return solveUsingMem(nums,index,dp);
+        return solveUsingTabulation(nums);
 
     }
 };
