@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solveUsingRec(int n, vector<string> &ans, string store){
+    void solveUsingRec(int n, vector<string> &ans, string &store){
         //Base Case
         if(n == 0){
             ans.push_back(store);
