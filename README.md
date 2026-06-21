@@ -55,6 +55,7 @@
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mdakhtar03/dsa-practice/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/mdakhtar03/dsa-practice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/mdakhtar03/dsa-practice/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/mdakhtar03/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0371-sum-of-two-integers) |
 ## Counting
@@ -282,6 +284,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/mdakhtar03/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/mdakhtar03/dsa-practice/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/mdakhtar03/dsa-practice/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0113-path-sum-ii) |
 ## Linked List
 |  |
