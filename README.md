@@ -257,6 +257,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/mdakhtar03/dsa-practice/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdakhtar03/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -454,6 +455,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/mdakhtar03/dsa-practice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/mdakhtar03/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0706-design-hashmap](https://github.com/mdakhtar03/dsa-practice/tree/master/0706-design-hashmap) |
