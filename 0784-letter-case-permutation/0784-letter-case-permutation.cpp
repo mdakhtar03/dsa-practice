@@ -16,12 +16,13 @@ public:
             ch = s[index] - 'A' + 'a';
         }
         store.push_back(ch);
+        
         solveUsingRec(s,ans,index+1,store);
 
         //exlcude
         store.pop_back();
         store.push_back(s[index]);
-        if(isalpha(ch))
+        if(isalpha(s[index]))
         solveUsingRec(s,ans,index+1,store);
         
     }
