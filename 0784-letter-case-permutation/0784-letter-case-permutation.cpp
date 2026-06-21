@@ -16,7 +16,7 @@ public:
             ch = s[index] - 'A' + 'a';
         }
         store.push_back(ch);
-        
+       
         solveUsingRec(s,ans,index+1,store);
 
         //exlcude
