@@ -1,19 +1,6 @@
 class Solution {
 public:
-      bool isPerfectSquare(int num) {
-        int i=1;
-        while(true){
-            num=num-i;
-            i=i+2;
-            if(num==0){
-                break;
-            }
-            else if(num<0){
-                return 0;
-            }
-        }
-        return 1;
-    }
+
     int solveUsingRec(int n){
         //Base Case
         if(n==0){
