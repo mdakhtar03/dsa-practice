@@ -80,6 +80,7 @@
 | [0706-design-hashmap](https://github.com/mdakhtar03/dsa-practice/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mdakhtar03/dsa-practice/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0896-monotonic-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mdakhtar03/dsa-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
