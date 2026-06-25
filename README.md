@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mdakhtar03/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mdakhtar03/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -162,6 +163,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/mdakhtar03/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
