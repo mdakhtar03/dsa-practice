@@ -142,6 +142,7 @@
 | [0205-isomorphic-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/mdakhtar03/dsa-practice/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
@@ -185,6 +186,7 @@
 | [0217-contains-duplicate](https://github.com/mdakhtar03/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mdakhtar03/dsa-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -255,6 +257,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mdakhtar03/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/2833-furthest-point-from-origin) |
@@ -519,6 +522,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mdakhtar03/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
