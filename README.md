@@ -370,6 +370,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mdakhtar03/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/mdakhtar03/dsa-practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -427,6 +428,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mdakhtar03/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/mdakhtar03/dsa-practice/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/mdakhtar03/dsa-practice/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -538,4 +540,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mdakhtar03/dsa-practice/tree/master/0239-sliding-window-maximum) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mdakhtar03/dsa-practice/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mdakhtar03/dsa-practice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
