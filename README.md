@@ -24,6 +24,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/mdakhtar03/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/mdakhtar03/dsa-practice/tree/master/1840-maximum-building-height) |
 | [1952-three-divisors](https://github.com/mdakhtar03/dsa-practice/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mdakhtar03/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2413-smallest-even-multiple](https://github.com/mdakhtar03/dsa-practice/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/mdakhtar03/dsa-practice/tree/master/2469-convert-the-temperature) |
@@ -106,6 +107,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mdakhtar03/dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mdakhtar03/dsa-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mdakhtar03/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mdakhtar03/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -524,6 +526,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/mdakhtar03/dsa-practice/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/mdakhtar03/dsa-practice/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mdakhtar03/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
