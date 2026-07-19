@@ -95,6 +95,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mdakhtar03/dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0896-monotonic-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1331-rank-transform-of-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1470-shuffle-the-array) |
@@ -272,6 +273,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/mdakhtar03/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0371-sum-of-two-integers) |
 | [0784-letter-case-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/0784-letter-case-permutation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/mdakhtar03/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
