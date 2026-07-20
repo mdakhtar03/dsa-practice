@@ -98,6 +98,7 @@
 | [0875-koko-eating-bananas](https://github.com/mdakhtar03/dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0896-monotonic-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1260-shift-2d-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1470-shuffle-the-array) |
@@ -184,6 +185,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3614-process-string-with-special-operations-ii) |
@@ -265,6 +267,7 @@
 | [0037-sudoku-solver](https://github.com/mdakhtar03/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mdakhtar03/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Bit Manipulation
