@@ -178,6 +178,7 @@
 | [2325-decode-the-message](https://github.com/mdakhtar03/dsa-practice/tree/master/2325-decode-the-message) |
 | [2833-furthest-point-from-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/2833-furthest-point-from-origin) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/mdakhtar03/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
@@ -555,6 +556,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/mdakhtar03/dsa-practice/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/mdakhtar03/dsa-practice/tree/master/1952-three-divisors) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Queue
 |  |
 | ------- |
