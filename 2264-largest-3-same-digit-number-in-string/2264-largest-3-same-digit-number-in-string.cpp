@@ -10,9 +10,9 @@ public:
             if(number > compare){
                 ans = "";
                 compare = number;
-            ans += num[i];
-            ans += num[j];
-            ans += num[k];
+                ans += num[i];
+                ans += num[j];
+                ans += num[k];
             }
         }
         i++,j++,k++;
