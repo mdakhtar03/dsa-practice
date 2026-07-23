@@ -24,6 +24,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mdakhtar03/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1688-count-of-matches-in-tournament](https://github.com/mdakhtar03/dsa-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/mdakhtar03/dsa-practice/tree/master/1840-maximum-building-height) |
 | [1952-three-divisors](https://github.com/mdakhtar03/dsa-practice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -191,6 +192,7 @@
 | [0415-add-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/mdakhtar03/dsa-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3614-process-string-with-special-operations-ii) |
