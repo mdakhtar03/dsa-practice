@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checker(vector<vector<int>>& mat, int row, int col){
-        //horizontal Check
+        //vertical Check
         int horizontalCheck = row;
         for(int i=0;i<mat[0].size();i++){
             if(i == col){
@@ -11,7 +11,7 @@ public:
                 return false;
             }
         }
-        //vertical Check
+        //horizontal Check
         int verticalCheck = col;
         for(int i=0; i<mat.size();i++){
             if(row ==i){
