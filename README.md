@@ -98,6 +98,7 @@
 | [0875-koko-eating-bananas](https://github.com/mdakhtar03/dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0896-monotonic-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -172,6 +173,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdakhtar03/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/mdakhtar03/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mdakhtar03/dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mdakhtar03/dsa-practice/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -215,6 +217,7 @@
 | [0767-reorganize-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0791-custom-sort-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/mdakhtar03/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [2325-decode-the-message](https://github.com/mdakhtar03/dsa-practice/tree/master/2325-decode-the-message) |
@@ -291,6 +294,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0767-reorganize-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/mdakhtar03/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
