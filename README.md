@@ -158,6 +158,7 @@
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/mdakhtar03/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/mdakhtar03/dsa-practice/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
@@ -206,6 +207,7 @@
 | [0219-contains-duplicate-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mdakhtar03/dsa-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -242,6 +244,7 @@
 | [0217-contains-duplicate](https://github.com/mdakhtar03/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/mdakhtar03/dsa-practice/tree/master/0295-find-median-from-data-stream) |
+| [0389-find-the-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mdakhtar03/dsa-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -279,6 +282,7 @@
 | [0136-single-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/mdakhtar03/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0389-find-the-difference) |
 | [0784-letter-case-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/mdakhtar03/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
