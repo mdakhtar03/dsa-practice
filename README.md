@@ -178,6 +178,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mdakhtar03/dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mdakhtar03/dsa-practice/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mdakhtar03/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2325-decode-the-message](https://github.com/mdakhtar03/dsa-practice/tree/master/2325-decode-the-message) |
 | [2833-furthest-point-from-origin](https://github.com/mdakhtar03/dsa-practice/tree/master/2833-furthest-point-from-origin) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/mdakhtar03/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
