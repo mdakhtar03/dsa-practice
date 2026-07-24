@@ -183,6 +183,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/mdakhtar03/dsa-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/mdakhtar03/dsa-practice/tree/master/1436-destination-city) |
 | [1903-largest-odd-number-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mdakhtar03/dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mdakhtar03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/mdakhtar03/dsa-practice/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/mdakhtar03/dsa-practice/tree/master/2485-find-the-pivot-integer) |
