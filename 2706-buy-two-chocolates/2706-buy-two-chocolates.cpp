@@ -1,18 +1,18 @@
 class Solution {
 public:
     int buyChoco(vector<int>& prices, int money) {
-        sort(prices.begin(), prices.end());
-
-        int i=0,j=prices.size()-1;
-
-        int firstChoco = prices[0];
-        int secondChoco = prices[1];
-
-        if(money - firstChoco - secondChoco < 0){
-            return money;
+        //trying to find to min num;
+        int min1=INT_MAX,min2 = INT_MAX;
+        for(int i=0; i<prices.size();i++){
+            if(min1>prices[i]){
+                min2 = min1;
+                min1 = prices[i];
+            } else{
+                min2 = min(prices[i], min2);
+            }
         }
+        if(money - min1- min2<0) return money;
 
-        return money - firstChoco - secondChoco;
-        
+        return money-min1-min2;
     }
 };
