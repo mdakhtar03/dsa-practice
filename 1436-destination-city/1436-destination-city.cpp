@@ -1,16 +1,16 @@
 class Solution {
 public:
     string destCity(vector<vector<string>>& paths) {
-        set<string> city;
+        unordered_map<string,int> mp;
 
         for(auto &path:paths){
             string City = path[0];
-            city.insert(City);
+            mp[City]++;
         }
         string ans;
         for(auto &path:paths){
             string City = path[1];
-             if (city.find(City) == city.end()) {
+             if (mp[City] == 0) {
                     ans = City;
                 }
         }
