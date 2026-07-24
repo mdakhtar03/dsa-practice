@@ -36,6 +36,7 @@
 | [2651-calculate-delayed-arrival-time](https://github.com/mdakhtar03/dsa-practice/tree/master/2651-calculate-delayed-arrival-time) |
 | [3270-find-the-key-of-the-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/3270-find-the-key-of-the-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mdakhtar03/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -126,6 +127,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdakhtar03/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/mdakhtar03/dsa-practice/tree/master/2706-buy-two-chocolates) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
@@ -312,6 +314,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/mdakhtar03/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -588,6 +591,7 @@
 | [1291-sequential-digits](https://github.com/mdakhtar03/dsa-practice/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/mdakhtar03/dsa-practice/tree/master/1952-three-divisors) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Queue
 |  |
 | ------- |
