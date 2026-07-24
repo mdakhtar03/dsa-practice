@@ -1,22 +1,24 @@
 class Solution {
 public:
     int maxScore(string s) {
+        //Score can be ZerosLeft - Ones Left + totalOnes
+
         int totalOnes = 0;
-        int zeros = 0; int ones=0;
         for(char &ch:s){
             if(ch == '1') totalOnes++;
         }
-        int ans = 0;
-        for(int i=0;i<s.size()-1;i++){
-            if(s[i]=='0'){
-                zeros++;
-            }
-            else if(s[i] == '1'){
-                ones++;
-            }
- 
-            ans = max(ans, zeros + totalOnes - ones);
+        int score = INT_MIN;
+        int leftZeros=0, leftOnes = 0;
+        for(int i=0 ;i<s.size()-1;i++){
+            if(s[i] == '1') 
+            leftOnes++;
+            else 
+            leftZeros++;
+
+            score = max(score, leftZeros-leftOnes);
+
         }
-        return ans;
+
+        return score + totalOnes;
     }
 };
