@@ -1,42 +1,26 @@
 class Solution {
 public:
-    bool checker(vector<vector<int>>& mat, int row, int col){
-        //vertical Check
-        int horizontalCheck = row;
-        for(int i=0;i<mat[0].size();i++){
-            if(i == col){
-                continue;
-            }
-            else if(mat[row][i] != 0){
-                return false;
-            }
-        }
-        //horizontal Check
-        int verticalCheck = col;
-        for(int i=0; i<mat.size();i++){
-            if(row ==i){
-                continue;
-            }
-            else if(mat[i][col] != 0){
-                return false;
-            }
-        }
-        return true;
-    }
     int numSpecial(vector<vector<int>>& mat) {
-        int row = mat.size();
-        int col = mat[0].size();
-        int ans = 0;
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if(mat[i][j] == 1){
+        int m = mat.size();
+        int n = mat[0].size();
+        vector<int> rowArr(m);
+        vector<int> colArr(n);
+        int result = 0;
+        for(int row = 0 ; row < m ; row++){
+            for(int col = 0 ; col < n ; col++){
+                if(mat[row][col] == 1){
+                    rowArr[row]++;
+                    colArr[col]++;
+                }
 
-                    if(checker(mat,i,j)){
-                        ans++;
-                    }
+            }
+        }
+        for(int row = 0 ; row < m ; row++){
+            for(int col = 0 ; col < n ; col++){
+                if(mat[row][col] == 0) continue;
+                if(mat[row][col] == 1 && colArr[col]==1 && rowArr[row]==1) result++;
                 }
             }
-        }
-        return ans;
+        return result;
     }
 };
