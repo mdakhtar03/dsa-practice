@@ -16,8 +16,7 @@ public:
              
              
         }
-        for( int &c:mp)
-        cout<<c<<" ";
+    
         
         return count;
     }
