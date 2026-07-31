@@ -107,6 +107,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/1260-shift-2d-grid) |
+| [1288-remove-covered-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1436-destination-city](https://github.com/mdakhtar03/dsa-practice/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -286,6 +287,7 @@
 | [0658-find-k-closest-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0791-custom-sort-string) |
+| [1288-remove-covered-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mdakhtar03/dsa-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
