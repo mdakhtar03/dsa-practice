@@ -41,6 +41,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mdakhtar03/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/mdakhtar03/dsa-practice/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/mdakhtar03/dsa-practice/tree/master/2485-find-the-pivot-integer) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |
