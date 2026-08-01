@@ -377,6 +377,7 @@
 | [0316-remove-duplicate-letters](https://github.com/mdakhtar03/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0901-online-stock-span](https://github.com/mdakhtar03/dsa-practice/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdakhtar03/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -470,6 +471,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/mdakhtar03/dsa-practice/tree/master/0316-remove-duplicate-letters) |
+| [0901-online-stock-span](https://github.com/mdakhtar03/dsa-practice/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
@@ -584,10 +586,12 @@
 | [0295-find-median-from-data-stream](https://github.com/mdakhtar03/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/mdakhtar03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/mdakhtar03/dsa-practice/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/mdakhtar03/dsa-practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mdakhtar03/dsa-practice/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/mdakhtar03/dsa-practice/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
