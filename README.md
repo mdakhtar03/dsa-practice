@@ -18,6 +18,7 @@
 | [0371-sum-of-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/mdakhtar03/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +95,7 @@
 | [0303-range-sum-query-immutable](https://github.com/mdakhtar03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/mdakhtar03/dsa-practice/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/mdakhtar03/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/mdakhtar03/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -388,6 +390,7 @@
 | [0279-perfect-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/mdakhtar03/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/mdakhtar03/dsa-practice/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/mdakhtar03/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/mdakhtar03/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
@@ -434,6 +437,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/mdakhtar03/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/mdakhtar03/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
@@ -630,4 +634,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mdakhtar03/dsa-practice/tree/master/0207-course-schedule) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mdakhtar03/dsa-practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
