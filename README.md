@@ -23,6 +23,7 @@
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mdakhtar03/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -106,6 +107,7 @@
 | [0706-design-hashmap](https://github.com/mdakhtar03/dsa-practice/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mdakhtar03/dsa-practice/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0896-monotonic-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -394,6 +396,7 @@
 | [0486-predict-the-winner](https://github.com/mdakhtar03/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/mdakhtar03/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Trie
@@ -642,4 +645,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/mdakhtar03/dsa-practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
