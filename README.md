@@ -27,6 +27,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mdakhtar03/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1688-count-of-matches-in-tournament](https://github.com/mdakhtar03/dsa-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/mdakhtar03/dsa-practice/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -114,6 +115,7 @@
 | [1260-shift-2d-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1436-destination-city](https://github.com/mdakhtar03/dsa-practice/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1470-shuffle-the-array) |
@@ -399,6 +401,7 @@
 | [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 ## Trie
 |  |
 | ------- |
@@ -646,4 +649,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/mdakhtar03/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
