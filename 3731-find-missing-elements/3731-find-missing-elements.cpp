@@ -4,12 +4,14 @@ public:
         int mn = *min_element(nums.begin(), nums.end());
     int mx = *max_element(nums.begin(), nums.end());
 
-    unordered_set<int> st(nums.begin(), nums.end());
-
+    unordered_map<int,int> mp;
+    for(int &num:nums){
+        mp[num]++;
+    }
     vector<int> ans;
 
     for(int i = mn; i <= mx; i++){
-        if(st.find(i) == st.end())
+        if(mp[i]==0)
             ans.push_back(i);
     }
 
