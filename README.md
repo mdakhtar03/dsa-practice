@@ -140,6 +140,7 @@
 | [2706-buy-two-chocolates](https://github.com/mdakhtar03/dsa-practice/tree/master/2706-buy-two-chocolates) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
@@ -256,6 +257,7 @@
 | [1496-path-crossing](https://github.com/mdakhtar03/dsa-practice/tree/master/1496-path-crossing) |
 | [2325-decode-the-message](https://github.com/mdakhtar03/dsa-practice/tree/master/2325-decode-the-message) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
 |  |
@@ -307,6 +309,7 @@
 | [2706-buy-two-chocolates](https://github.com/mdakhtar03/dsa-practice/tree/master/2706-buy-two-chocolates) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
