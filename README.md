@@ -40,6 +40,7 @@
 | [2651-calculate-delayed-arrival-time](https://github.com/mdakhtar03/dsa-practice/tree/master/2651-calculate-delayed-arrival-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/3270-find-the-key-of-the-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mdakhtar03/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -628,6 +629,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/mdakhtar03/dsa-practice/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/mdakhtar03/dsa-practice/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Queue
