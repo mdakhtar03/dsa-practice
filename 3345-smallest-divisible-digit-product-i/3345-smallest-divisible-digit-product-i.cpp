@@ -13,7 +13,7 @@ public:
         return false;
     }
     int smallestNumber(int n, int t) {
-        while(1){
+        while(n<n+10){
            bool ans = checkTheNumber(n,t);
            if(ans) break;
 
