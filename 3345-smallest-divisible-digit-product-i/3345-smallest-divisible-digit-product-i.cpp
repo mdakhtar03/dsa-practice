@@ -20,6 +20,6 @@ public:
            n++;
         }
 
-        return n++;
+        return n;
     }
 };
