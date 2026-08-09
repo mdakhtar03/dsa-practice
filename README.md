@@ -26,6 +26,7 @@
 | [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mdakhtar03/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1688-count-of-matches-in-tournament](https://github.com/mdakhtar03/dsa-practice/tree/master/1688-count-of-matches-in-tournament) |
@@ -112,6 +113,7 @@
 | [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0896-monotonic-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/1288-remove-covered-intervals) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mdakhtar03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
+| [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/mdakhtar03/dsa-practice/tree/master/1732-find-the-highest-altitude) |
@@ -404,6 +407,7 @@
 | [0647-palindromic-substrings](https://github.com/mdakhtar03/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 ## Trie
@@ -654,13 +658,16 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/mdakhtar03/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
