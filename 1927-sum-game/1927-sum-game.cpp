@@ -32,11 +32,7 @@ public:
         int TLsum = 2*leftSum + 9*leftQM;
         int TRsum = 2*rightSum + 9*rightQM;
 
-        if(TLsum == TRsum){
-            return false;
-        }
-
-        return true;
+       return TLsum != TRsum;
 
     }
 };
