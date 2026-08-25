@@ -7,7 +7,6 @@ public:
             if(num%k == 0){
                 maxMultiple = max(num,maxMultiple);
                mp[num]++; 
-               cout<< mp[num]++ << " ";
             }
         }
         
