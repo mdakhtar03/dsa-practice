@@ -82,6 +82,7 @@
 | [0048-rotate-image](https://github.com/mdakhtar03/dsa-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mdakhtar03/dsa-practice/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mdakhtar03/dsa-practice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -302,6 +303,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -699,4 +701,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
