@@ -3,16 +3,17 @@ class Solution {
     int kthSmallest(vector<int> &arr, int k) {
         // code here
         priority_queue<int> pq;
-        for(int i=0;i<k;i++){
+        for(int i=0; i<k;i++){
             pq.push(arr[i]);
         }
         
-        for(int i=k; i<arr.size();i++){
+        for(int i=k;i<arr.size();i++){
             if(arr[i]<pq.top()){
                 pq.pop();
                 pq.push(arr[i]);
             }
         }
+        //Top of the queue is the max value
         int ans = pq.top();
         return ans;
     }
