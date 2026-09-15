@@ -84,6 +84,7 @@
 | [0051-n-queens](https://github.com/mdakhtar03/dsa-practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/mdakhtar03/dsa-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mdakhtar03/dsa-practice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0088-merge-sorted-array) |
@@ -162,6 +163,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mdakhtar03/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/mdakhtar03/dsa-practice/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/mdakhtar03/dsa-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mdakhtar03/dsa-practice/tree/master/0125-valid-palindrome) |
@@ -305,6 +307,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/mdakhtar03/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -707,4 +710,9 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/mdakhtar03/dsa-practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mdakhtar03/dsa-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
