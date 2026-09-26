@@ -15,8 +15,7 @@ public:
         while(i<n){
             if(isalpha(s[i])){
                ans.push_back(s[i]);
-               i++;
-               continue;
+               
             }
             else{
                 // {
@@ -25,12 +24,7 @@ public:
                     temp.push_back(s[i]);
                     i++;
                 }
-                if(mp.count(temp)>0){
-                    ans += mp[temp];
-                }
-                else{
-                    ans +=  "?";
-                }
+                ans += mp.count(temp) ? string(mp[temp]) : "?";
                 temp = "";
             }
 
