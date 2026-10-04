@@ -193,6 +193,7 @@
 | [0020-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/mdakhtar03/dsa-practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/mdakhtar03/dsa-practice/tree/master/0125-valid-palindrome) |
@@ -414,6 +415,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mdakhtar03/dsa-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdakhtar03/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -433,6 +435,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdakhtar03/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/mdakhtar03/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdakhtar03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mdakhtar03/dsa-practice/tree/master/0198-house-robber) |
@@ -731,6 +734,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
