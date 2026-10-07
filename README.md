@@ -202,6 +202,7 @@
 | [0205-isomorphic-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/mdakhtar03/dsa-practice/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/mdakhtar03/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0389-find-the-difference) |
@@ -473,6 +474,7 @@
 | [0051-n-queens](https://github.com/mdakhtar03/dsa-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/mdakhtar03/dsa-practice/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/mdakhtar03/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
@@ -573,6 +575,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/mdakhtar03/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mdakhtar03/dsa-practice/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/mdakhtar03/dsa-practice/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
