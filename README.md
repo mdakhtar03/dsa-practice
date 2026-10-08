@@ -218,6 +218,7 @@
 | [0791-custom-sort-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/mdakhtar03/dsa-practice/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdakhtar03/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -430,6 +431,7 @@
 | [0678-valid-parenthesis-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/mdakhtar03/dsa-practice/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdakhtar03/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -744,6 +746,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mdakhtar03/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
