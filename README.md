@@ -155,6 +155,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/mdakhtar03/dsa-practice/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/mdakhtar03/dsa-practice/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -294,6 +295,7 @@
 | [1496-path-crossing](https://github.com/mdakhtar03/dsa-practice/tree/master/1496-path-crossing) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2325-decode-the-message](https://github.com/mdakhtar03/dsa-practice/tree/master/2325-decode-the-message) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -320,6 +322,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdakhtar03/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/mdakhtar03/dsa-practice/tree/master/2706-buy-two-chocolates) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -389,6 +392,7 @@
 | [0389-find-the-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0389-find-the-difference) |
 | [0784-letter-case-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/mdakhtar03/dsa-practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
