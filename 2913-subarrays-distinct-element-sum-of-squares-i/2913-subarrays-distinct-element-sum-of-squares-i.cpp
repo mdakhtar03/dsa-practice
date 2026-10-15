@@ -1,21 +1,19 @@
 class Solution {
 public:
     int sumCounts(vector<int>& nums) {
-       unordered_set<int> st;
-       unsigned int ans=0;
-       int n = nums.size();
-       for(int k=0; k<n; k++){
-            for(int i=k; i<n; i++){
-                for(int j=k; j<=i; j++){
+        unordered_set<int> st;
+        unsigned int ans = 0;
+        int n = nums.size();
+        for (int k = 0; k < n; k++) {
+            for (int i = k; i < n; i++) {
+                for (int j = k; j <= i; j++) {
                     st.insert(nums[j]);
-                    // cout<< nums[j] << " ";
                 }
-                // cout<<endl;
-                int count  = st.size();
+                int count = st.size();
                 st.clear();
-                ans += count*count;
+                ans += count * count;
             }
-       }
-       return ans; 
+        }
+        return ans;
     }
 };
