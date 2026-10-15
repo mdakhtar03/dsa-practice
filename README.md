@@ -157,6 +157,7 @@
 | [2706-buy-two-chocolates](https://github.com/mdakhtar03/dsa-practice/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mdakhtar03/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/mdakhtar03/dsa-practice/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -298,6 +299,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2325-decode-the-message](https://github.com/mdakhtar03/dsa-practice/tree/master/2325-decode-the-message) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mdakhtar03/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -769,4 +771,12 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mdakhtar03/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mdakhtar03/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mdakhtar03/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
