@@ -94,6 +94,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mdakhtar03/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/mdakhtar03/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdakhtar03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/mdakhtar03/dsa-practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0136-single-number) |
@@ -466,6 +467,7 @@
 | [0022-generate-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mdakhtar03/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/mdakhtar03/dsa-practice/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/mdakhtar03/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdakhtar03/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mdakhtar03/dsa-practice/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/0279-perfect-squares) |
