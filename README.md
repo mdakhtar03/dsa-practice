@@ -52,6 +52,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mdakhtar03/dsa-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3886-sum-of-sortable-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -720,6 +723,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Queue
 |  |
 | ------- |
