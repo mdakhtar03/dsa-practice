@@ -1,0 +1,35 @@
+
+class Solution {
+public:
+    int minOperations(string s) {
+        int n = s.size();
+
+        // Case 1: Already sorted
+        if (is_sorted(s.begin(), s.end())) {
+            return 0;
+        }
+
+        // Case 2: Unsorted string of length 2
+        if (n == 2) {
+            return -1;
+        }
+
+        char mn = *min_element(s.begin(), s.end());
+        char mx = *max_element(s.begin(), s.end());
+
+        // Case 3: Minimum is already at the start,
+        // or maximum is already at the end
+        if (s[0] == mn || s[n - 1] == mx) {
+            return 1;
+        }
+
+        char max_mid = *max_element(s.begin()+1, s.end()-1);
+        char min_mid = *min_element(s.begin()+1, s.end()-1);
+
+        if(s[0]>max_mid && s[n-1]<min_mid){
+            return 3;
+        }
+
+        return 2;
+    }
+};
