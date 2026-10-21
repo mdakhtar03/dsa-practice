@@ -17,8 +17,7 @@ public:
         char mn = *min_element(s.begin(), s.end());
         char mx = *max_element(s.begin(), s.end());
 
-        // Case 3: Minimum is already at the start,
-        // or maximum is already at the end
+        
         if (s[0] == mn || s[n - 1] == mx) {
             return 1;
         }
