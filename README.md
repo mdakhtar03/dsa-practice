@@ -80,6 +80,7 @@
 | [0001-two-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mdakhtar03/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mdakhtar03/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdakhtar03/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mdakhtar03/dsa-practice/tree/master/0075-sort-colors) |
@@ -343,6 +345,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mdakhtar03/dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mdakhtar03/dsa-practice/tree/master/0075-sort-colors) |
