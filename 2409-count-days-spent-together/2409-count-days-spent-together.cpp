@@ -2,17 +2,17 @@ class Solution {
 public:
 
 
-    int totalDays(int &month, unordered_map<int,int> &calMonthDates){
+    int totalDays(int &month, unordered_map<int,int> &calMonthDays){
         int daySum = 0;
         for(int i=1 ; i< month ; i++){
-            daySum += calMonthDates[i];
+            daySum += calMonthDays[i];
         }
         return daySum;
     }
 
     int countDaysTogether(string arriveAlice, string leaveAlice, string arriveBob, string leaveBob) {
 
-        unordered_map<int,int> calMonthDates = {
+        unordered_map<int,int> calMonthDays = {
             {1, 31}, {2, 28}, {3,31},{4,30}, 
             {5,31}, {6,30}, {7,31}, {8,31}, 
             {9,30}, {10,31}, {11,30}, {12,31}
@@ -24,10 +24,10 @@ public:
         int bobLeaveMonth = stoi(leaveBob.substr(0,2));
 
 
-        int aliceADays = totalDays(aliceArrivalMonth , calMonthDates) + stoi(arriveAlice.substr(3,2));
-        int bobADays =  totalDays(bobArrivalMonth , calMonthDates) + stoi(arriveBob.substr(3,2));
-        int aliceLDays  = totalDays(aliceLeaveMonth , calMonthDates) + stoi(leaveAlice.substr(3,2));
-        int bobLDays =  totalDays(bobLeaveMonth , calMonthDates) + stoi(leaveBob.substr(3,2));
+        int aliceADays = totalDays(aliceArrivalMonth , calMonthDays) + stoi(arriveAlice.substr(3,2));
+        int bobADays =  totalDays(bobArrivalMonth , calMonthDays) + stoi(arriveBob.substr(3,2));
+        int aliceLDays  = totalDays(aliceLeaveMonth , calMonthDays) + stoi(leaveAlice.substr(3,2));
+        int bobLDays =  totalDays(bobLeaveMonth , calMonthDays) + stoi(leaveBob.substr(3,2));
 
         
         int start = max(aliceADays, bobADays);
