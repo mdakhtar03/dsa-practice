@@ -171,6 +171,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mdakhtar03/dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -406,6 +407,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mdakhtar03/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -568,6 +570,7 @@
 | [0938-range-sum-of-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/mdakhtar03/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -628,6 +631,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/mdakhtar03/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -814,6 +818,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/mdakhtar03/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
