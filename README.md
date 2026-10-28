@@ -177,6 +177,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -409,6 +410,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mdakhtar03/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -426,6 +428,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -503,6 +506,7 @@
 | [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
