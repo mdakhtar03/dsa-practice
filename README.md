@@ -179,6 +179,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -273,6 +274,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
@@ -432,6 +434,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
@@ -582,6 +585,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/mdakhtar03/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -625,6 +629,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -683,6 +688,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -821,11 +827,13 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mdakhtar03/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mdakhtar03/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
