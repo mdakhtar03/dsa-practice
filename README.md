@@ -66,6 +66,7 @@
 | [0069-sqrtx](https://github.com/mdakhtar03/dsa-practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/mdakhtar03/dsa-practice/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/mdakhtar03/dsa-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mdakhtar03/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
@@ -110,6 +111,7 @@
 | [0179-largest-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mdakhtar03/dsa-practice/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mdakhtar03/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0219-contains-duplicate-ii) |
@@ -413,6 +415,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/mdakhtar03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -466,6 +469,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mdakhtar03/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/mdakhtar03/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mdakhtar03/dsa-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
