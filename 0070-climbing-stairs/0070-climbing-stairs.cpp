@@ -1,35 +1,26 @@
 class Solution {
 public:
-    int solveUingRec(int n){
-         if(n==1){
-            return 1;
-        }
-        if(n==0){
-            return 1;
-        }
+    int solveUsingRec(int n){
+        //Base Case
+        if(n==1 || n==0) return 1;
 
-        int recAns = solveUingRec(n-1) + solveUingRec(n-2);
-        return recAns;
+        int step = solveUsingRec(n-1) + solveUsingRec(n-2);
+        return step;
     }
 
-    int solveUingMem(int n, vector<int> &dp){
-         if(n==1 || n==0){
-            return 1;
-        }
+    int solveUsingMem(int n,vector<int> &dp){
+        //Base Case
+        if(n==1 || n==0) return 1;
         if(dp[n] != -1){
             return dp[n];
         }
-        
-
-        int ans = solveUingMem(n-1,dp) + solveUingMem(n-2,dp);
-        dp[n] = ans;
-        return dp[n];
+        int step = solveUsingMem(n-1,dp) + solveUsingMem(n-2,dp);
+        dp[n] = step;
+        return step;
     }
-    
-
 
     int climbStairs(int n) {
-        vector<int> dp(n+1,-1);
-       return solveUingMem(n,dp);
+        vector<int> dp(n+1, -1);
+        return solveUsingMem(n,dp);
     }
 };
