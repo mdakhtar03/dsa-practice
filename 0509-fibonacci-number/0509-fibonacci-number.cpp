@@ -8,6 +8,8 @@ public:
         int recAns = solveUsingRec(n-1) + solveUsingRec(n-2);
         return recAns;
     }
+
+
     int solveUsingMem(int n, vector<int> &dp){
         if(n==0 || n==1){
             return n;
@@ -20,10 +22,34 @@ public:
         dp[n] = ans;
         return dp[n];
     }
+    //Bottom up approach
+    int solveUsingTabulation(int n){
+        // Step 1: figure out the DP
+        if(n==0) return 0;
 
+        if(n==1) return 1;
+
+        vector<int> dp(n+1, -1);
+
+        //Step 2: Analyse Base case and filled the DP
+        dp[0] = 0;
+        dp[1] = 1;
+
+        //Step 3: Loop logic
+
+        for(int i=2; i<=n ; i++){
+            int ans = dp[i-1] + dp[i-2];
+            dp[i] = ans;
+        }
+
+        return dp[n];
+    }
 
     int fib(int n) {
-        vector<int> dp(n+1,-1);
-        return solveUsingMem(n,dp);
+        // vector<int> dp(n+1,-1);
+        return solveUsingTabulation(n);
+
+        
+
     }
 };
