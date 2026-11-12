@@ -29,20 +29,24 @@ public:
 
         if(n==1) return 1;
 
-        vector<int> dp(n+1, -1);
+        // vector<int> dp(n+1, -1);
 
         //Step 2: Analyse Base case and filled the DP
-        dp[0] = 0;
-        dp[1] = 1;
+        // dp[0] = 0;
+        // dp[1] = 1;
 
         //Step 3: Loop logic
-
+        int curr = 0;  int prev1 = 0; int prev2 = 1;
         for(int i=2; i<=n ; i++){
-            int ans = dp[i-1] + dp[i-2];
-            dp[i] = ans;
+            // int ans = dp[i-1] + dp[i-2];
+           
+            
+            curr = prev1 + prev2;
+            prev1 = prev2;
+            prev2 = curr;
         }
 
-        return dp[n];
+        return curr;
     }
 
     int fib(int n) {
