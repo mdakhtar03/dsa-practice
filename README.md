@@ -183,6 +183,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/mdakhtar03/dsa-practice/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -428,6 +429,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/mdakhtar03/dsa-practice/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/mdakhtar03/dsa-practice/tree/master/2485-find-the-pivot-integer) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
@@ -485,6 +487,7 @@
 | [0658-find-k-closest-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [2747-count-zero-request-servers](https://github.com/mdakhtar03/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdakhtar03/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
