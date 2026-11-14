@@ -1,27 +1,35 @@
 class Solution {
 public:
-    
-    int solveMem(vector<int>& nums, int i,vector<int> &dp){
-        if(i>=nums.size()) return 0;
+    int solveUsingRec(int i, vector<int> &nums){
+        if(i>=nums.size()){
+            return 0;
+        }
 
+        int firstWay = nums[i] + solveUsingRec(i+2, nums);
+
+        int secondWay = solveUsingRec(i+1, nums);
+
+        return max(firstWay, secondWay);
+
+    }
+    int solveUsingMem(int i, vector<int> &nums, vector<int> &dp){
+        if(i>=nums.size()){
+            return 0;
+        }
         if(dp[i] != -1){
             return dp[i];
         }
 
+        int firstWay = nums[i] + solveUsingMem(i+2, nums,dp);
 
-        //Include
-       
-        
-        int currentHouse = nums[i] + solveMem(nums, i+2,dp);
-        //Exclude
-        int nextHouse = solveMem(nums, i+1,dp);
-        dp[i]=max(currentHouse,nextHouse);
-        return max(currentHouse,nextHouse);
+        int secondWay = solveUsingMem(i+1, nums,dp);
+
+        dp[i]= max(firstWay, secondWay);
+        return dp[i];
 
     }
     int rob(vector<int>& nums) {
-        unsigned int sum = 0;
-        vector<int> dp(nums.size()+1, -1);
-        return solveMem(nums,0,dp);
+        vector<int> dp(int(nums.size()+1),-1);
+        return solveUsingMem(0, nums,dp);
     }
 };
