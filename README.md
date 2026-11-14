@@ -884,4 +884,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mdakhtar03/dsa-practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mdakhtar03/dsa-practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
