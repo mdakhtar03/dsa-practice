@@ -41,7 +41,7 @@ public:
         
         int notPick = solveUsingMem(coins, amount, i + 1,dp); 
         dp[amount][i] = min(pick,notPick);
-        return min(pick,notPick);
+        return dp[amount][i];
     }
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
