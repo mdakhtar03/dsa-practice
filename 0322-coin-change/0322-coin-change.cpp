@@ -1,54 +1,55 @@
 class Solution {
 public:
-    int solveUsingRec(vector<int>& coins, int amount){
+    int solveUsingRec(vector<int>& coins, int amount, int i){
         if(amount == 0){
             return 0;
         }
-
-        int mini = INT_MAX;
-
-        for(int i=0;i<coins.size();i++){
-            if(coins[i]<=amount){
-
-                int recursionAns = solveUsingRec(coins, amount-coins[i]);
-                if(recursionAns != INT_MAX){
-                    mini = min(mini , recursionAns+1);
-                }
-            }
+        if(amount<0 || i>= coins.size()){
+            return INT_MAX;
         }
+        int pick = INT_MAX;
 
-        return mini;
-    }
-    int solveUsingMem(vector<int>& coins, int amount, vector<int> &dp){
-        if(amount == 0){
-            return 0;
+        if(amount>=coins[i]){
+           int ans = solveUsingRec(coins, amount - coins[i], i);
+           if(ans != INT_MAX){
+            pick= ans + 1;
+           }
         }
-
-        int mini = INT_MAX;
-        if(dp[amount] != -1){
-            return dp[amount];
-        }
-
-        for(int i=0;i<coins.size();i++){
-            if(coins[i]<=amount){
-
-                int recursionAns = solveUsingMem(coins, amount-coins[i],dp);
-                if(recursionAns != INT_MAX){
-                    mini = min(mini , recursionAns+1);
-                }
-            }
-        }
-        dp[amount] = mini;
-        return dp[amount];
-    }
-    
-    int coinChange(vector<int>& coins, int amount) {
         
-        vector<int> dp(amount+1,-1);
-        int ans = solveUsingMem(coins,amount,dp);
-        if(ans != INT_MAX)
-        return ans;
+        int notPick = solveUsingRec(coins, amount, i + 1); 
+    
+        return min(pick,notPick);
+    }
+    int solveUsingMem(vector<int>& coins, int amount, int i,vector<vector<int>>& dp){
+        if(amount == 0){
+            return 0;
+        }
+        if(amount<0 || i>= coins.size()){
+            return INT_MAX;
+        }
+        if(dp[amount][i] != -1){
+            return dp[amount][i];
+        }
+        int pick = INT_MAX;
 
-        return -1;
+        if(amount>=coins[i]){
+           int ans = solveUsingMem(coins, amount - coins[i], i,dp);
+           if(ans != INT_MAX){
+            pick= ans + 1;
+           }
+        }
+        
+        int notPick = solveUsingMem(coins, amount, i + 1,dp); 
+        dp[amount][i] = min(pick,notPick);
+        return min(pick,notPick);
+    }
+    int coinChange(vector<int>& coins, int amount) {
+        int n = coins.size();
+        vector<vector<int>> dp(amount+1,vector<int>(n+1,-1));
+        int ans =  solveUsingMem(coins,amount, 0,dp);
+        if(ans == INT_MAX){
+            return -1;
+        }
+        return ans;
     }
 };
