@@ -1,48 +1,48 @@
 class Solution {
 public:
-    int solveUsingRec(vector<int>& nums, int curr, int prev){
+    int solveUsingRec(vector<int>& nums, int prev, int curr){
         //Base Case
-        if(curr>=nums.size()){
+        if(curr >= nums.size()){
             return 0;
         }
 
-            int include = 0;
-        if(prev == -1 || nums[prev] < nums[curr]){
-            include = 1 + solveUsingRec(nums, curr+1, curr);
+        
+        int include = 0;
+        if(prev == -1 || nums[prev]<nums[curr]){
+            
+            include = 1 + solveUsingRec(nums, curr, curr+1);
         }
 
-        int exclude = solveUsingRec(nums, curr+1, prev);
-        return max(include, exclude);
+        int exclude = solveUsingRec(nums, prev, curr+1);
+
+        return max(include,exclude);
+
     }
-    
-    int solveUsingMem(vector<int>& nums, int curr, int prev, vector<vector<int>> &dp){
+    int solveUsingMem(vector<int>& nums, int prev, int curr,vector<vector<int>> &dp){
         //Base Case
-        if(curr>=nums.size()){
+        if(curr >= nums.size()){
             return 0;
         }
-
-        if( dp[curr][prev+1] != -1){
-            return  dp[curr][prev+1];
+        
+        if(dp[prev+1][curr] != -1){
+            return dp[prev+1][curr];
+        }
+        
+        int include = 0;
+        if(prev == -1 || nums[prev]<nums[curr]){
+            
+            include = 1 + solveUsingMem(nums, curr, curr+1,dp);
         }
 
-            int include = 0;
-        if(prev == -1 || nums[prev] < nums[curr]){
-            include = 1 + solveUsingMem(nums, curr+1, curr, dp);
-        }
+        int exclude = solveUsingMem(nums, prev, curr+1,dp);
 
-        int exclude = solveUsingMem(nums, curr+1, prev,dp);
-        int finalAns =  max(include, exclude);
-          dp[curr][prev+1] = finalAns;
-          return finalAns;
+        dp[prev+1][curr] = max(include,exclude);
+        return dp[prev+1][curr];
     }
-
-
-
     int lengthOfLIS(vector<int>& nums) {
-        int prev = -1;
-        int curr=0;
         int n = nums.size();
-        vector<vector<int>> dp(n+1, vector<int> (n+1, -1)) ;
-        return solveUsingMem(nums, curr, prev,dp);
+        vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
+
+        return solveUsingMem(nums,-1,0,dp);
     }
 };
