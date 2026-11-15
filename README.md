@@ -31,6 +31,7 @@
 | [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mdakhtar03/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1688-count-of-matches-in-tournament](https://github.com/mdakhtar03/dsa-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/mdakhtar03/dsa-practice/tree/master/1840-maximum-building-height) |
@@ -154,6 +155,7 @@
 | [1470-shuffle-the-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mdakhtar03/dsa-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mdakhtar03/dsa-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/mdakhtar03/dsa-practice/tree/master/1732-find-the-highest-altitude) |
@@ -427,6 +429,7 @@
 | [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/mdakhtar03/dsa-practice/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/mdakhtar03/dsa-practice/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
@@ -547,6 +550,7 @@
 | [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3665-twisted-mirror-path-count](https://github.com/mdakhtar03/dsa-practice/tree/master/3665-twisted-mirror-path-count) |
