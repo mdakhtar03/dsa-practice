@@ -184,6 +184,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mdakhtar03/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mdakhtar03/dsa-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
@@ -423,6 +424,7 @@
 | [2706-buy-two-chocolates](https://github.com/mdakhtar03/dsa-practice/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/mdakhtar03/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mdakhtar03/dsa-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/mdakhtar03/dsa-practice/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -562,6 +564,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mdakhtar03/dsa-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mdakhtar03/dsa-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/mdakhtar03/dsa-practice/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
