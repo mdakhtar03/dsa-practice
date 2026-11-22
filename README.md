@@ -286,6 +286,7 @@
 | [1927-sum-game](https://github.com/mdakhtar03/dsa-practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mdakhtar03/dsa-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mdakhtar03/dsa-practice/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/mdakhtar03/dsa-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/mdakhtar03/dsa-practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/mdakhtar03/dsa-practice/tree/master/2264-largest-3-same-digit-number-in-string) |
