@@ -25,6 +25,7 @@
 | [0539-minimum-time-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/0728-self-dividing-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/mdakhtar03/dsa-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/mdakhtar03/dsa-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
@@ -469,6 +470,7 @@
 | [0287-find-the-duplicate-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/mdakhtar03/dsa-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mdakhtar03/dsa-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mdakhtar03/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -613,6 +615,7 @@
 | [0390-elimination-game](https://github.com/mdakhtar03/dsa-practice/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/mdakhtar03/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/mdakhtar03/dsa-practice/tree/master/0779-k-th-symbol-in-grammar) |
 ## Depth-First Search
 |  |
 | ------- |
