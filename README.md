@@ -31,6 +31,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/mdakhtar03/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mdakhtar03/dsa-practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mdakhtar03/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -149,6 +150,7 @@
 | [1267-count-servers-that-communicate](https://github.com/mdakhtar03/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/mdakhtar03/dsa-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mdakhtar03/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/mdakhtar03/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1436-destination-city](https://github.com/mdakhtar03/dsa-practice/tree/master/1436-destination-city) |
@@ -440,6 +442,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/mdakhtar03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/mdakhtar03/dsa-practice/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mdakhtar03/dsa-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -782,11 +785,13 @@
 | [0303-range-sum-query-immutable](https://github.com/mdakhtar03/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/mdakhtar03/dsa-practice/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/mdakhtar03/dsa-practice/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mdakhtar03/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/mdakhtar03/dsa-practice/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Function
 |  |
 | ------- |
