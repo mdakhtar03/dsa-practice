@@ -13,6 +13,9 @@ public:
         unsigned int ans = 1;
         int n = nums.size();
         for(int i=n-1; k!=0; i--){
+            if(nums[i]==0){
+                return 0;
+            }
             ans *= nums[i];
             k--;
         }
