@@ -50,6 +50,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/mdakhtar03/dsa-practice/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mdakhtar03/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mdakhtar03/dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -192,6 +193,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/mdakhtar03/dsa-practice/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mdakhtar03/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mdakhtar03/dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -508,6 +510,7 @@
 | [2747-count-zero-request-servers](https://github.com/mdakhtar03/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdakhtar03/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mdakhtar03/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -814,6 +817,7 @@
 | [1952-three-divisors](https://github.com/mdakhtar03/dsa-practice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mdakhtar03/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/mdakhtar03/dsa-practice/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mdakhtar03/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mdakhtar03/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
@@ -822,6 +826,7 @@
 | [1952-three-divisors](https://github.com/mdakhtar03/dsa-practice/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mdakhtar03/dsa-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/3886-sum-of-sortable-integers) |
