@@ -2,7 +2,7 @@ class Solution {
 public:
     using ll = long long;
 
-    static constexpr ll MOD = 1e9 + 7;
+     ll MOD = 1e9 + 7;
 
     ll power(ll base, int exp) {
         ll ans = 1;
