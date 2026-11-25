@@ -85,6 +85,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/mdakhtar03/dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mdakhtar03/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mdakhtar03/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 ## Array
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mdakhtar03/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdakhtar03/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/mdakhtar03/dsa-practice/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mdakhtar03/dsa-practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -364,6 +366,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdakhtar03/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mdakhtar03/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mdakhtar03/dsa-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3934-smallest-unique-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -799,6 +802,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/mdakhtar03/dsa-practice/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -933,4 +937,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mdakhtar03/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/mdakhtar03/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
