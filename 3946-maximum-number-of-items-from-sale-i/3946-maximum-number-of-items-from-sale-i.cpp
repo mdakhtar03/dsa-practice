@@ -1,0 +1,76 @@
+class Solution {
+public:
+  
+    int solveUsingRec(int n, int budget, vector<vector<int>>& items,int &minPrice, vector<int> &copies){
+        if(n==0)
+            return budget/minPrice;
+
+        int take = 0;
+        int skip = 0;
+        int price = items[n-1][1];
+        //Include
+        if(price <= budget){
+            take = 1 + copies[n-1] + solveUsingRec(n-1, budget-price, items,minPrice,copies);
+        }
+
+        //Exclude
+        skip = solveUsingRec(n-1, budget,items, minPrice, copies);
+
+        return max(skip,take);
+
+
+    }
+
+    int solveUsingMem(int n, int budget, vector<vector<int>>& items,int &minPrice, vector<int> &copies, vector<vector<int>> &dp){
+        if(n==0)
+            return budget/minPrice;
+
+
+        if(dp[n][budget] != -1){
+            return dp[n][budget];
+        }
+
+        int take = 0;
+        int skip = 0;
+        int price = items[n-1][1];
+        //Include
+        if(price <= budget){
+            take = 1 + copies[n-1] + solveUsingMem(n-1, budget-price, items,minPrice,copies,dp);
+        }
+
+        //Exclude
+        skip = solveUsingMem(n-1, budget,items, minPrice, copies,dp);
+
+        return dp[n][budget] = max(skip,take);
+
+
+    }
+
+
+    int maximumSaleItems(vector<vector<int>>& items, int budget) {
+        int n = items.size();
+        int minPrice = INT_MAX;
+        vector<int> copies(n,0);
+        vector<vector<int>> dp(n+1, vector<int>(budget+1, -1));
+
+
+
+
+        for(int i=0; i<n; i++){
+            int count =0 ;
+            minPrice = min(minPrice, items[i][1]);
+            for(int j=0; j<n; j++){
+                if(i==j) continue;
+
+                if(items[j][0]%items[i][0]==0){
+                    count++;
+                }
+            }
+            copies[i] = count;
+        }
+
+        int ans = solveUsingMem(n,budget, items,minPrice, copies,dp);
+
+        return ans;
+    }
+};
